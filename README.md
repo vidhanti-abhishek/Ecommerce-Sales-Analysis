@@ -94,6 +94,8 @@ This project demonstrates how Microsoft Excel can transform raw ecommerce sales 
 
 The Ecommerce Sales Analysis Dashboard showcases practical data analytics skills using Microsoft Excel. It provides an interactive way to analyze sales, profit, product categories, and regional performance, making complex business data easier to understand.
 
+IMG 
+![Ecommerce Sales Analysis Dashboard](https://raw.githubusercontent.com/vidhanti-abhishek/Ecommerce-Sales-Analysis/main/DASHBOARD%20IMGG.png)
 ---
 
 **Project Category:** Data Analytics  
